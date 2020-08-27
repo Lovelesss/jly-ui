@@ -1,0 +1,3 @@
+ui组件流程： template，script，style
+1. 想象html结构
+2. props，event，slot
