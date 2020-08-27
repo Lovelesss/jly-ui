@@ -1,9 +1,9 @@
 import Button from './button'
-import Switch from './switch'
+import ButtonGroup from './button-group'
 
 const components = [
   Button,
-  Switch,
+  ButtonGroup
 ]
 
 // 全局引用
@@ -16,5 +16,5 @@ const install = (Vue) => {
 export default {
   install,
   Button,
-  Switch
+  ButtonGroup,
 }
